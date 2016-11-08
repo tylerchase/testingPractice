@@ -1,0 +1,27 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerchase/testingPractice.git"
+  },
+  "author": "Tyler Chase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerchase/testingPractice/issues"
+  },
+  "homepage": "https://github.com/tylerchase/testingPractice#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "supertest": "^2.0.1"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
